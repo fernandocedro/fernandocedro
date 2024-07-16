@@ -1,5 +1,5 @@
 - 👋 Olá meu nome é Fernando Cedro
-- 👀 Design e especialista em construção de sie em CMS 
+- 👀 Design e especialista em construção de site em CMS 
 
 
 
